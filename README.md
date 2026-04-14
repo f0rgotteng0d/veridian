@@ -17,8 +17,8 @@ pip install numpy pandas matplotlib scipy
 Clone the repository using:
 
 ```bash
-git clone <repository-link>
-cd <repository-folder>
+git clone https://github.com/f0rgotteng0d/veridian.git
+cd veridian
 ```
 
 Alternatively, download the ZIP and extract it.
